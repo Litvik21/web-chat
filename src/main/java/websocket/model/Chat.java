@@ -1,6 +1,5 @@
 package websocket.model;
 
-import lombok.Generated;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
